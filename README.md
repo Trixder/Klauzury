@@ -1,6 +1,6 @@
 # 2D Stranger Things-Inspired Game – School Project
 
-This is a 2D game made in Unity, inspired by the world and atmosphere of *Stranger Things*. It blends light action with exploration and mystery.
+This is a 2D game made in Unity, inspired by the world and atmosphere of *Stranger Things*. It blends extra light action with exploration and mystery.
 
 ## Overview
 
